@@ -13,6 +13,19 @@ Miłej zabawy!
 * [Wyszukiwarki](#Wyszukiwarki)
 * [VPN](#VPN)
 * [Systemy operacyjne](#Systemy-operacyjne)
+* Przeglądarki
+* Dodatki do przeglądarek
+* Komunikatory
+* Poczta elektroniczna
+* Menadżer haseł
+* Chmura
+* Klient torrent
+* DNS
+* Dodatkowe oprogramowanie
+* Warte odwiedzenia strony
+* Cytaty
+* Polecane dzieła kultury
+* Zakończenie
 
 ## Wyszukiwarki
 * Poziom pierwszy:
@@ -55,7 +68,7 @@ Miłej zabawy!
   - Poziom pierwszy:
     - Wiele pola do popisu tu nie ma. Zablokuj wszelkie "anonimowe" programy, dane diagnostyczne, analogicznie do komputera.
   - Poziom drugi:
-    - Czysty Android bez nakładek producenta. Mniej śledzenia, brak problemów z użytkowaniem aplikacji.
+    - Czysty Android bez nakładek producenta. Mniej śledzenia, brak problemów z użytkowaniem aplikacji. Oczywiście nie wolno zapomnieć o ograniczeniu uprawnień Google do absolutnego minimum, o czym też pisałem w punkcie pierwszym.
   - Poziom trzeci:
     - [LineageOS](https://download.lineageos.org/) – Obsługuje większość smartfonów
     - [GrapheneOS](https://grapheneos.org/releases) – Jedynie na Google Pixel
