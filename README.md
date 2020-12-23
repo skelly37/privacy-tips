@@ -36,7 +36,7 @@ Miłej zabawy!
   -
 
 ## Systemy operacyjne
-* KOMPUTER
+* **KOMPUTER**
   - Poziom pierwszy:
     - Windows 10 + wyłączone zbędne ustawienia szpiegowskie + [miejsce na parę aplikacji do podkręcenia softu] / MacOS [najnowszy, ze wsparciem] + [sprawdzić, czy są konkretne aplikacje do niego]
   - Poziom drugi:
@@ -50,7 +50,7 @@ Miłej zabawy!
   - Fałszywi przyjaciele:
     - Apple/Microsoft i ich personalizacja, "*ułatwienia*" oraz wszelkie inne cuda, mające na celu wyłudzić od Ciebie jeszcze więcej danych. Odchacz przynajmniej podstawowe minimum – wejdź w ustawienia i zablokuj wszelakie *"anonimowe" dane, diagnostykę* i inne formy szpiegowskiej nowomowy.
     - Linux Ubuntu – przedstawiany jako najlepsza edycja Linuxa dla kogoś zielonego w temacie, jest po prostu mniejszym szpiegiem od alternatyw megakorporacji. Dalej [pobiera dane telemetryczne](), dalej ma [wpadki](https://youtu.be/CP8CNp-vksc) z prywatnością. Zdecydowanie lepszym wyjściem jest albo Debian na którym napisano Ubuntu, a najlepiej Mint, będący "oczyszczonym" Ubuntu.
-* SMARTFON
+* **SMARTFON**
   - Na sam początek powiem, że użytkownicy iPhone'ów są tu na przegranej pozycji – dotyczy ich tylko punkt pierwszy. Największymi wygranymi są posiadacze smartfona z serii Google Pixel – najszerszy wybór świetnych systemów, ale praktycznie każdy androidziarz może czytać dalej
   - Poziom pierwszy:
     - Wiele pola do popisu tu nie ma. Zablokuj wszelkie "anonimowe" programy, dane diagnostyczne, analogicznie do komputera.
