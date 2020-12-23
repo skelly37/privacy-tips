@@ -11,6 +11,7 @@ Miłej zabawy!
 
 ## SPIS TREŚCI
 * [Wyszukiwarki](#Wyszukiwarki)
+* [VPN](#VPN)
 
 ## Wyszukiwarki
 * Poziom pierwszy:
