@@ -13,19 +13,19 @@ Miłej zabawy!
 * [Wyszukiwarki](#Wyszukiwarki)
 * [VPN](#VPN)
 * [Systemy operacyjne](#Systemy-operacyjne)
-* Przeglądarki
-* Dodatki do przeglądarek
-* Komunikatory
-* Poczta elektroniczna
-* Menadżer haseł
-* Chmura
-* Klient torrent
-* DNS
-* Dodatkowe oprogramowanie
-* Warte odwiedzenia strony
-* Cytaty
-* Polecane dzieła kultury
-* Zakończenie
+* [Przeglądarki](#Przeglądarki)
+* [Dodatki do przeglądarek](#Dodatki-do-przeglądarek)
+* [Komunikatory]
+* [Poczta elektroniczna]
+* [Menadżer haseł]
+* [Chmura]
+* [Klient torrent]
+* [DNS]
+* [Dodatkowe oprogramowanie]
+* [Warte odwiedzenia strony]
+* [Cytaty]
+* [Polecane dzieła kultury]
+* [Zakończenie]
 
 ## Wyszukiwarki
 * Poziom pierwszy:
