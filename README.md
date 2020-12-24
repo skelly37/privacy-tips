@@ -31,9 +31,10 @@ Miłej zabawy!
 * Poziom pierwszy:
   - [Brave](https://brave.com/) – nowa, przystępna i prosta w obsłudze przeglądarka zbudowana na zdegooglowanym Chromium. Jej całym założeniem jest gwarancja prywatności, tak też posiada wbudowaną blokadę reklam, skryptów, plików cookie oraz ochronę przed fingerprintingem. To chyba najłatwiejsza opcja do przeniesienia się dla starych użytkowników Chrome'a. Do tego zawiera obsługę sieci TOR i jest również dostępna na telefonach.
 * Poziom drugi:
-  - [Firefox](https://www.mozilla.org/pl/) – w skrócie? Absolutny król przeglądarek. Lisek walczy od ponad 18 lat o wolność w sieci bez profitu, od ludzi dla ludzi. Zawiera wiele domyślnie włączonych zabezpieczeń, które można zwiększyć w ustawieniach. Do tego po dodaniu naszego ukochanego [zestawu rozszerzeń](#Dodatki-do-przeglądarek), nasz Ognisty Lisek staje się absolutnym czołgiem. Oryginalny i zbudowany od zera, posiada własny Web Store niżeli ten oferowany w Chrome, co dla naprawdę opornych chrome'owców może być minusem.
+  - [Firefox](https://www.mozilla.org/pl/) – w skrócie? Absolutny król przeglądarek. Lisek walczy od ponad 18 lat o wolność w sieci, non-profit, od ludzi dla ludzi. Zawiera wiele domyślnie włączonych zabezpieczeń, które można jeszcze bardziej w ustawieniach, do czego z automatu zachęcamy. Do tego po dodaniu naszego ukochanego [zestawu rozszerzeń](#Dodatki-do-przeglądarek), nasz Ognisty Lisek staje się absolutnym czołgiem. Oryginalny i zbudowany od zera, posiada własny Web Store niżeli ten oferowany w Chrome, co dla naprawdę opornych chrome'owców może być minusem i trudnością w przeniesieniu się.
 * Poziom trzeci:
-  - [Tor Browser](https://www.torproject.org/) – trzecie miejsce jest najbardziej skomplikowane i z pewnością nie nadaje się do końca do codziennego użytku. Jednak to właśnie TOR jest tym, co gwarantuje pełną prywatność w sieci. Cdn.
+  - [Tor Browser](https://www.torproject.org/) – tu przechodzimy na szczyt naszej piramidy, która jest zarówno szczytem skomplikowania. TOR jest przeglądarką zbudowaną na Firefoxie, gwarantującą maksymalną anonimowość dzięki 'cebulowej sieci', ukryciu naszego IP oraz domyślnym ustawieniom. I kto powiedział, że trzeba zostawiać za sobą ślad?
+Minusem jednak jest powolne działanie internetu oraz częste blokowanie połączenia przez strony, które nie szanują chęci zachowania pełnej prywatności przez użytkowników. Powiemy tyle, że kiedy tak się dzieje, to to o czymś świadczy.
 
 ## Wyszukiwarki
 * Poziom pierwszy:
