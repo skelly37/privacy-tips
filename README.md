@@ -72,24 +72,24 @@ Minusem jednak jest powolne działanie internetu oraz częste blokowanie połąc
   - NoScript –
   
 ## Komunikatory
-* Poziom pierwszy:
+* 🟢Poziom pierwszy:
   - [Telegram](https://telegram.org/) –
-* Poziom drugi:
+* 🔵Poziom drugi:
   - [Signal](https://www.signal.org/pl/) –
-* Poziom trzeci:
+* 🟣Poziom trzeci:
   - [Element/Matrix](https://element.io/) –
   - [Briar](https://briarproject.org/) –
-* Fałszywi przyjaciele:
+* 🔴Fałszywi przyjaciele:
   - Messenger/WhatsApp/Viber –
   - Zwykłe SMS'y –
   
 ## Poczta elektroniczna
-* 🟢Poziom pierwszy:
+* Poziom pierwszy:
   - ProtonMail
   - Tutanota
-* 🟡Poziom drugi:
+* Poziom drugi:
   -
-* 🔴Poziom trzeci:
+* Poziom trzeci:
   - RiseUp Mail –
   - Thunderbird –
 
