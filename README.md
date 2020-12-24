@@ -9,7 +9,7 @@ Kładziemy nacisk nie tylko na merytorykę treści i ich praktyczność, ale ró
 Miłej zabawy!
 
 ----
-Przed wszystkim przypomnijmy sobie prostą zasadę.
+Przed wszystkim przypomnijmy sobie prostą zasadę.<br>
 <b>Google/Facebook/Microsoft/Apple nie lubimy.</b>
 
 ## SPIS TREŚCI
