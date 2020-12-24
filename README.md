@@ -72,6 +72,8 @@ Minusem jednak jest powolne działanie internetu oraz częste blokowanie połąc
   - NoScript –
   
 ## Komunikatory
+       Jasne, komunikatory to podstawa w rozmowie z kimś! Najpewniej większość twoich znajomych siedzi na Messengerze albo WhatsAppie, bo jest wygodne, bo każdy je używa i w zasadzie tylko o nich usłyszysz poznając kogoś nowego. Jednak jaki ma to sens, gdy każda twoja rozmowa może być sprzedana i czytana przez osoby z zewnątrz, nie masz pewności co się z nimi dzieje i możesz tylko spodziewać się reklamy kupna grilla, o którym kilka minut wcześniej pisałeś z przyjaciółką?
+Z pomocą przychodzą najlepsze, prywatne i szyfrowane komunikatory.
 * 🟢Poziom pierwszy:
   - [Telegram](https://telegram.org/) –
 * 🔵Poziom drugi:
