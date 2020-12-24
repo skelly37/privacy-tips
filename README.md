@@ -10,7 +10,7 @@ Miłej zabawy!
 
 ----
 Przed wszystkim przypomnijmy sobie prostą zasadę.<br>
-<h1><b>Google/Facebook/Microsoft/Apple nie lubimy.</b></h1>
+<h3><b>Google/Facebook/Microsoft/Apple nie lubimy.</b></h3>
 
 ## SPIS TREŚCI
 * [Przeglądarki](#Przeglądarki)
