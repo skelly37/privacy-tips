@@ -15,17 +15,17 @@ Miłej zabawy!
 * [Systemy operacyjne](#Systemy-operacyjne)
 * [Przeglądarki](#Przeglądarki)
 * [Dodatki do przeglądarek](#Dodatki-do-przeglądarek)
-* [Komunikatory]
-* [Poczta elektroniczna]
-* [Menadżer haseł]
-* [Chmura]
-* [Klient torrent]
-* [DNS]
-* [Dodatkowe oprogramowanie]
-* [Warte odwiedzenia strony]
-* [Cytaty]
-* [Polecane dzieła kultury]
-* [Zakończenie]
+* [Komunikatory](#Komunikatory)
+* [Poczta elektroniczna](#Poczta-elektroniczna)
+* [Menadżer haseł](#Menadżer-haseł)
+* [Chmura](#Chmura)
+* [Klient torrent](#Klient-torrent)
+* [DNS](#DNS)
+* [Dodatkowe oprogramowanie](#Dodatkowe-oprogramowanie)
+* [Warte odwiedzenia strony](#Warte-odwiedzenia-strony)
+* [Cytaty](#Cytaty)
+* [Polecane dzieła kultury](#Polecane-dzieła-kultury)
+* [Zakończenie](#Zakończenie)
 
 ## Wyszukiwarki
 * Poziom pierwszy:
