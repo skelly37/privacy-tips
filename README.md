@@ -135,4 +135,5 @@ Z pomocą przychodzą najlepsze, prywatne i szyfrowane komunikatory.
 
 ## Warte odwiedzenia strony
  - [PrivacyTools](https://www.privacytools.io/) – Zbiór najważniejszych i najbardziej polecancych przez specjalistów narzędzi, informacji etc. w świecie cybersecu.
- - [RiseUp](https://riseup.net/pl) – Kolektyw anarchistyczny, którego celem jest walka o podstawowe prawo człowieka do wolności słowa w sieci. Oferują bezpłatne i bezpieczne usługi jak Mail, VPN czy komunikację.
+ - [EFF](https://www.eff.org/) – pionierska fundacja patrząca od 30 lat na rączki tych, którym cieknie ślinka na myśl o zagarnianiu prywatności ;))
+ - [RiseUp](https://riseup.net/pl) – Ciekawy kolektyw anarchistyczny, którego celem od ponad 20 lat jest walka o podstawowe prawo człowieka do wolności słowa w sieci. Warte uwagi dla aktywistów!
