@@ -28,7 +28,7 @@ Miłej zabawy!
 * [Zakończenie](#Zakończenie)
 
 ## Przeglądarki
-#Do czego
+Niezależnie do czego używasz swoje urządzenie, przeglądrka jest całym sercem twojego internetowego życia.
 * Poziom pierwszy:
   - [Brave](https://brave.com/) – nowa, przystępna i prosta w obsłudze przeglądarka zbudowana na zdegooglowanym Chromium. Jej całym założeniem jest gwarancja prywatności, tak też posiada wbudowaną blokadę reklam, skryptów, plików cookie oraz ochronę przed fingerprintingem. To chyba najłatwiejsza opcja do przeniesienia się dla starych użytkowników Chrome'a. Do tego zawiera obsługę sieci TOR i jest również dostępna na telefonach.
 * Poziom drugi:
@@ -36,6 +36,9 @@ Miłej zabawy!
 * Poziom trzeci:
   - [Tor Browser](https://www.torproject.org/) – tu przechodzimy na szczyt naszej piramidy, która jest zarówno szczytem skomplikowania. TOR jest przeglądarką zbudowaną na Firefoxie, gwarantującą maksymalną anonimowość dzięki 'cebulowej sieci', ukryciu naszego IP oraz domyślnym ustawieniom. I kto powiedział, że trzeba zostawiać za sobą ślad?
 Minusem jednak jest powolne działanie internetu oraz częste blokowanie połączenia przez strony, które nie szanują chęci zachowania pełnej prywatności przez użytkowników. Powiemy tyle, że kiedy tak się dzieje, to to o czymś świadczy.
+* Fałszywi przyjaciele:
+  - Chrome/Edge – bez obwijania w bawełnę. Najpopularniejsze przeglądarki na zasadzie "bo każdy używa", a jednak z zamkniętym kodem źródłowym, zbierające dane o użytkownikach, ciągłe afery o ich sprzedaży bądź udzielenie ich niepożądanym służbom. Tak jak na wstępie napisaliśmy - Google i Microsoftu absolutnie nie lubimy.
+  - Opera – niestety sytuacja taka jak wyżej, acz z taką róznicą, że oferuje wbudowany VPN. Aczkolwiek w [kategorii o VPN](#VPN) pokażemy wam jak sobie samemu z tym poradzić, bez pisania paktu z diabłem.
 
 ## Wyszukiwarki
 * Poziom pierwszy:
