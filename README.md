@@ -28,6 +28,7 @@ Miłej zabawy!
 * [Zakończenie](#Zakończenie)
 
 ## Przeglądarki
+#Do czego
 * Poziom pierwszy:
   - [Brave](https://brave.com/) – nowa, przystępna i prosta w obsłudze przeglądarka zbudowana na zdegooglowanym Chromium. Jej całym założeniem jest gwarancja prywatności, tak też posiada wbudowaną blokadę reklam, skryptów, plików cookie oraz ochronę przed fingerprintingem. To chyba najłatwiejsza opcja do przeniesienia się dla starych użytkowników Chrome'a. Do tego zawiera obsługę sieci TOR i jest również dostępna na telefonach.
 * Poziom drugi:
