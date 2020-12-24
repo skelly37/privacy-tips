@@ -12,7 +12,7 @@ Miłej zabawy!
 ## SPIS TREŚCI
 * [Wyszukiwarki](#Wyszukiwarki)
 * [VPN](#VPN)
-* [Systemy operacyjne](#Systemy-operacyjne)
+* [Systemy operacyjne](#Systemy operacyjne)
 * [Przeglądarki](#Przeglądarki)
 * [Dodatki do przeglądarek](#Dodatki-do-przeglądarek)
 * [Komunikatory](#Komunikatory)
