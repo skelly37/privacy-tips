@@ -10,10 +10,10 @@ Miłej zabawy!
 
 
 ## SPIS TREŚCI
+* [Przeglądarki](#Przeglądarki)
 * [Wyszukiwarki](#Wyszukiwarki)
 * [VPN](#VPN)
 * [Systemy operacyjne](#Systemy-operacyjne)
-* [Przeglądarki](#Przeglądarki)
 * [Dodatki do przeglądarek](#Dodatki-do-przeglądarek)
 * [Komunikatory](#Komunikatory)
 * [Poczta elektroniczna](#Poczta-elektroniczna)
@@ -26,6 +26,8 @@ Miłej zabawy!
 * [Cytaty](#Cytaty)
 * [Polecane dzieła kultury](#Polecane-dzieła-kultury)
 * [Zakończenie](#Zakończenie)
+
+## Przeglądarki
 
 ## Wyszukiwarki
 * Poziom pierwszy:
