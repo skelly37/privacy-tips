@@ -135,3 +135,4 @@ Z pomocą przychodzą najlepsze, prywatne i szyfrowane komunikatory.
 
 ## Warte odwiedzenia strony
  - [PrivacyTools](https://www.privacytools.io/)
+ - [RiseUp](https://riseup.net/pl)
