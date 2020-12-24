@@ -16,10 +16,10 @@ Przed wszystkim przypomnijmy sobie prostą zasadę:<br>
 * [Przeglądarki](#Przeglądarki)
 * [Wyszukiwarki](#Wyszukiwarki)
 * [Dodatki do przeglądarek](#Dodatki-do-przeglądarek)
-* [VPN](#VPN)
-* [Systemy operacyjne](#Systemy-operacyjne)
 * [Komunikatory](#Komunikatory)
 * [Poczta elektroniczna](#Poczta-elektroniczna)
+* [VPN](#VPN)
+* [Systemy operacyjne](#Systemy-operacyjne)
 * [Menadżer haseł](#Menadżer-haseł)
 * [Chmura](#Chmura)
 * [Klient torrent](#Klient-torrent)
@@ -55,12 +55,51 @@ Minusem jednak jest powolne działanie internetu oraz częste blokowanie połąc
   - Google, Bing, Yahoo, Baidu – megakorporacje nie dbają o twoją prywatność – uciekaj od tych wyszukiwarek, jeśli chcesz zachować minimum prywatności
   - [Yandex](https://yandex.com/) – megakorporacją nie są, lecz jest to najpopularniejszy serwis wśród wschodnich Słowian. Nie jest to jednak powód do zaufania – nietrudno znaleźć [materiały](https://wap.ceo.ca/@canadianpress/top-russian-internet-firm-reportedly-under-pressure-on-data), dotyczące historii Yandeksu i rosyjskich służb. Piraci jednak ją lubią, ze względu na łatwy dostęp do treści łamiących prawa autorskie i ich wysokie pozycjonowanie. 
   - [StartPage](https://startpage.com/) – reklamują się jako "nieśledzący Google", lecz są w dobrych relacjach z reklamodawcami, budząc pewne [wątpliwości](https://restoreprivacy.com/startpage-system1-privacy-one-group/). Nie skreślamy ich całkowicie, lecz patrząc na dostępne alternatywy, polecamy traktowanie tej wyszukiwarki jako ostateczności
+  
+## Dodatki do przeglądarek
+* Poziom pierwszy:
+  - AdGuard –
+  - Privacy Badger –
+  - HTTPS Everywhere –
+  - Decentraleyes –
+  - CleanURLs –
+  - Facebook Container
+* Poziom drugi:
+  - uBlock –
+  - CanvasBlocker –
+  - Cookie AutoDelete –
+* Poziom trzeci:
+  - NoScript –
+  
+## Komunikatory
+* Poziom pierwszy:
+  - [Telegram](https://telegram.org/) –
+* Poziom drugi:
+  - [Signal](https://www.signal.org/pl/) –
+* Poziom trzeci:
+  - [Element/Matrix](https://element.io/) –
+  - [Briar](https://briarproject.org/) –
+* Fałszywi przyjaciele:
+  - Messenger/WhatsApp/Viber –
+  - Zwykłe SMS'y –
+  
+## Poczta elektroniczna
+* 🟢Poziom pierwszy:
+  - ProtonMail
+  - Tutanota
+* 🟡Poziom drugi:
+  -
+* 🔴Poziom trzeci:
+  - RiseUp Mail –
+  - Thunderbird –
 
 ## VPN
 * Poziom pierwszy:
-  -
+  - [RiseUp VPN](https://riseup.net/en/vpn) –
+  - [1.1.1.1 z WARP](https://1.1.1.1/) –
 * Poziom drugi:
-  -
+  - [NordVPN](https://nordvpn.com/pl/) –
+  - [ExpressVPN](https://www.expressvpn.com/pl) –
 * Poziom trzeci:
   -
 
