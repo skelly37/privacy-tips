@@ -12,9 +12,9 @@ Miłej zabawy!
 ## SPIS TREŚCI
 * [Przeglądarki](#Przeglądarki)
 * [Wyszukiwarki](#Wyszukiwarki)
+* [Dodatki do przeglądarek](#Dodatki-do-przeglądarek)
 * [VPN](#VPN)
 * [Systemy operacyjne](#Systemy-operacyjne)
-* [Dodatki do przeglądarek](#Dodatki-do-przeglądarek)
 * [Komunikatory](#Komunikatory)
 * [Poczta elektroniczna](#Poczta-elektroniczna)
 * [Menadżer haseł](#Menadżer-haseł)
@@ -28,6 +28,12 @@ Miłej zabawy!
 * [Zakończenie](#Zakończenie)
 
 ## Przeglądarki
+* Poziom pierwszy:
+  - [Brave](https://brave.com/) – nowa, przystępna i prosta w obsłudze przeglądarka zbudowana na zdegooglowanym Chromium. Jej całym założeniem jest gwarancja prywatności, tak też posiada wbudowaną blokadę reklam, skryptów, plików cookie oraz ochronę przed fingerprintingem. To chyba najłatwiejsza opcja do przeniesienia się dla starych użytkowników Chrome'a. Do tego zawiera obsługę sieci TOR i jest również dostępna na telefonach.
+* Poziom drugi:
+  - [Firefox](https://www.mozilla.org/pl/) – w skrócie? Absolutny król przeglądarek. Lisek walczy od ponad 18 lat o wolność w sieci bez profitu, od ludzi dla ludzi. Zawiera wiele domyślnie włączonych zabezpieczeń, które można zwiększyć w ustawieniach. Do tego po dodaniu naszego ukochanego [zestawu rozszerzeń](#Dodatki-do-przeglądarek), nasz Ognisty Lisek staje się absolutnym czołgiem. Oryginalny i zbudowany od zera, posiada własny Web Store niżeli ten oferowany w Chrome, co dla naprawdę opornych chrome'owców może być minusem.
+* Poziom trzeci:
+  - [Tor Browser](https://www.torproject.org/) – trzecie miejsce jest najbardziej skomplikowane i z pewnością nie nadaje się do końca do codziennego użytku. Jednak to właśnie TOR jest tym, co gwarantuje pełną prywatność w sieci. Cdn.
 
 ## Wyszukiwarki
 * Poziom pierwszy:
