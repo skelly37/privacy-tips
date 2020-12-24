@@ -134,5 +134,5 @@ Z pomocą przychodzą najlepsze, prywatne i szyfrowane komunikatory.
     - Analogicznie jak w przypadku komputerów – uciekaj od wszelkich *analiz*, "anonimowego *wsparcia*" i innej *diagnostyki*. 
 
 ## Warte odwiedzenia strony
- - [PrivacyTools](https://www.privacytools.io/)
- - [RiseUp](https://riseup.net/pl)
+ - [PrivacyTools](https://www.privacytools.io/) – Zbiór najważniejszych i najbardziej polecancych przez specjalistów narzędzi, informacji etc. w świecie cybersecu.
+ - [RiseUp](https://riseup.net/pl) – Kolektyw anarchistyczny, którego celem jest walka o podstawowe prawo człowieka do wolności słowa w sieci. Oferują bezpłatne i bezpieczne usługi jak Mail, VPN czy komunikację.
