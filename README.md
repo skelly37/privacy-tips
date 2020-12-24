@@ -132,3 +132,6 @@ Z pomocą przychodzą najlepsze, prywatne i szyfrowane komunikatory.
     - [CalyxOS](https://calyxos.org/get/) – Na razie tylko na Google Pixel oraz Xiaomi Mi A2 (otwarcie na Xiaomi daje cień nadziei)
   - Fałszywi przyjaciele:
     - Analogicznie jak w przypadku komputerów – uciekaj od wszelkich *analiz*, "anonimowego *wsparcia*" i innej *diagnostyki*. 
+
+## Warte odwiedzenia strony
+ - [PrivacyTools](https://www.privacytools.io/)
