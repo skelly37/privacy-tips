@@ -57,8 +57,8 @@ Minusem jednak jest powolne działanie internetu oraz częste blokowanie połąc
   - [StartPage](https://startpage.com/) – reklamują się jako "nieśledzący Google", lecz są w dobrych relacjach z reklamodawcami, budząc pewne [wątpliwości](https://restoreprivacy.com/startpage-system1-privacy-one-group/). Nie skreślamy ich całkowicie, lecz patrząc na dostępne alternatywy, polecamy traktowanie tej wyszukiwarki jako ostateczności
   
 ## Dodatki do przeglądarek
-Poza podstawowymi ustawieniami w naszych przeglądarkach, można je wszystkie jeszcze bardziej odpicować i zabezpieczyć skutecznymi rozszerzeniami.
-Wierzymy, że praktyczność, uniwersalność i minimalizm mogą iść w parze. Tak też ten profesjonalny zestaw rozszerzeń wystarczy wam w zupełności do wszystkiego!
+Poza podstawowymi ustawieniami w naszych przeglądarkach, można je wszystkie jeszcze bardziej odpicować i zabezpieczyć skutecznymi rozszerzeniami.<br>
+Wierzymy, że praktyczność, uniwersalność i minimalizm mogą iść w parze. Tak też ten profesjonalny zestaw rozszerzeń wystarczy wam w zupełności do wszystkiego!<br>
 W tej kategorii poziom pierwszy jest absolutnie koniecznym i niezauważalnym minimum dla każdego. Drugi może lekko zmienić działanie przeglądarki, na co niektóre strony mogą różnie reagować. Trzeci jest bardzo zaawansowany i zdecydowanie nie jest dla każdego.
 * Poziom pierwszy:
   - [AdGuard](https://adguard.com/pl/adguard-browser-extension/overview.html) – 
