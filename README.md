@@ -59,7 +59,8 @@ Minusem jednak jest powolne działanie internetu oraz częste blokowanie połąc
 ## Dodatki do przeglądarek
 Poza podstawowymi ustawieniami w naszych przeglądarkach, można je wszystkie jeszcze bardziej odpicować i zabezpieczyć skutecznymi rozszerzeniami.<br>
 Wierzymy, że praktyczność, uniwersalność i minimalizm mogą iść w parze. Tak też ten profesjonalny zestaw rozszerzeń wystarczy wam w zupełności do wszystkiego!<br>
-Poziom pierwszy jest absolutnie niezbędny dla każdego; drugi delikatnie modyfikuje działanie przeglądarki i jak strony na nią reaguje. A trzeci? Cóż... To poziom trzeci ;)
+Poziom pierwszy jest absolutnie niezbędny dla każdego; drugi delikatnie modyfikuje działanie przeglądarki i jak strony na nią reagują.<br>
+A trzeci? Cóż... To poziom trzeci ;)
 * Poziom pierwszy:
   - [AdGuard](https://adguard.com/pl/adguard-browser-extension/overview.html) – 
   - [Privacy Badger](https://privacybadger.org/) –
