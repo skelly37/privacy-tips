@@ -9,8 +9,8 @@ Kładziemy nacisk nie tylko na merytorykę treści i ich praktyczność, ale ró
 Miłej zabawy!
 
 ----
-Przed wszystkim przypomnijmy sobie prostą zasadę:<br>
-<h3><b>Google/Facebook/Microsoft/Apple nie lubimy.</b></h3>
+<h3>Przed wszystkim przypomnijmy sobie prostą zasadę:<br>
+<b>Google/Facebook/Microsoft/Apple nie lubimy.</b></h3>
 
 ## SPIS TREŚCI
 * [Przeglądarki](#Przeglądarki)
@@ -58,16 +58,14 @@ Minusem jednak jest powolne działanie internetu oraz częste blokowanie połąc
   
 ## Dodatki do przeglądarek
 Poza podstawowymi ustawieniami w naszych przeglądarkach, można je wszystkie jeszcze bardziej odpicować i zabezpieczyć skutecznymi rozszerzeniami.<br>
-Wierzymy, że praktyczność, uniwersalność i minimalizm mogą iść w parze. Tak też ten profesjonalny zestaw rozszerzeń wystarczy wam w zupełności do wszystkiego!<br>
-Poziom pierwszy jest absolutnie niezbędny dla każdego; drugi delikatnie modyfikuje działanie przeglądarki i jak strony na nią reagują.<br>
-A trzeci? Cóż... To poziom trzeci ;)
+Pamiętaj, że minmalizm jest piękny i im mniej, to tym lepiej i szybciej. Tak też ten profesjonalny zestaw rozszerzeń wystarczy Ci w zupełności do wszystkiego!
 * Poziom pierwszy:
-  - [AdGuard](https://adguard.com/pl/adguard-browser-extension/overview.html) – 
   - [Privacy Badger](https://privacybadger.org/) –
   - [HTTPS Everywhere](https://www.eff.org/https-everywhere) –
   - [Decentraleyes](https://decentraleyes.org/) –
   - [CleanURLs](https://addons.mozilla.org/en-US/firefox/addon/clearurls/) –
   - [Facebook Container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) –
+  - [AdGuard](https://adguard.com/pl/adguard-browser-extension/overview.html) – przyjemny w użyciu bloker reklam. Wykorzystuje autorskie listy filtrów do trackerów i reklam. Jest niewykrywalny przez strony jako adblock, więc unikniemy zbędnego "hurr durr, masz włączonego AdBlocka!!1!11!". Może również blokować reklamy na Facebooku, co akurat nie pojawia się w sąsiednim uBlocku.
 * Poziom drugi:
   - [uBlock](https://ublockorigin.com/) –
   - [CanvasBlocker](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/) –
@@ -81,9 +79,9 @@ A trzeci? Cóż... To poziom trzeci ;)
   Jasne, komunikatory to podstawa w rozmowie z kimś! Najpewniej większość twoich znajomych siedzi na Messengerze albo WhatsAppie, bo są wygodne, każdy je używa i w zasadzie tylko o nich usłyszysz poznając kogoś nowego. Jednak jaki jest ich sens, gdy każda twoja rozmowa może być czytana przez służby, wykorzystana do reklam i pozbawiona jakiegokolwiek bezpieczeństwa?
 Z pomocą przychodzą najlepsze, prywatne i szyfrowane komunikatory.
 * Poziom pierwszy:
-  - [Telegram](https://telegram.org/) – 
+  - [Telegram](https://telegram.org/) – rosyjski, niesamowicie wygodny komunikator bijący Messengera o głowę swoimi możliwościami, a których długo by mówić. Posiada wiele społeczności, do których można się przyłączyć. Rozmowy mają szyfrowanie End-to-End, jednak nie domyślnie, a w 'chacie prywatnym', co jest jednym z dużych minusów. Drugim problemem jest konieczność dodania numeru telefonu przy tworzeniu konta jako weryfikację. Niemniej jednak jest to najprzyjemniejsza alternatywa do przejścia ze znajomymi!
 * Poziom drugi:
-  - [Signal](https://www.signal.org/pl/) –
+  - [Signal](https://www.signal.org/pl/) – bohaterski komunikator w pełni szyfrowany End-to-End. Na Androidach może zastąpić nawet domyślną aplikację SMS'ową. Tylko no właśnie, znów tym samym problemem jest konieczność rejestracji z numerem telefonu.
 * Poziom trzeci:
   - [Element/Matrix](https://element.io/) –
   - [Briar](https://briarproject.org/) –
@@ -100,17 +98,19 @@ Z pomocą przychodzą najlepsze, prywatne i szyfrowane komunikatory.
 * Poziom trzeci:
   - RiseUp Mail –
   - Thunderbird –
+* Fałszywi przyjaciele:
+  - Gmail/Outlook/Yahoo
 
 ## VPN
 * Poziom pierwszy:
-  - [RiseUp VPN](https://riseup.net/en/vpn) –
   - [1.1.1.1 z WARP](https://1.1.1.1/) –
 * Poziom drugi:
   - [NordVPN](https://nordvpn.com/pl/) –
   - [ExpressVPN](https://www.expressvpn.com/pl) –
 * Poziom trzeci:
-  -
-
+  - [RiseUp VPN](https://riseup.net/en/vpn) –
+* Fałszywi przyjaciele:
+  - Darmowym VPN'om niestety nie można ufać
 ## Systemy operacyjne
 * **KOMPUTER**
   - Poziom pierwszy:
