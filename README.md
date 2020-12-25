@@ -35,7 +35,7 @@ Niezależnie do czego używasz swoje urządzenie, przeglądrka jest całym serce
 * Poziom pierwszy:
   - [Brave](https://brave.com/) – nowa, przystępna i prosta w obsłudze przeglądarka zbudowana na zdegooglowanym Chromium. Jej całym założeniem jest gwarancja prywatności, tak też posiada wbudowaną blokadę reklam, skryptów, plików cookie oraz ochronę przed fingerprintingem. To chyba najłatwiejsza opcja do przeniesienia się dla starych użytkowników Chrome'a. Do tego zawiera obsługę sieci TOR i jest również dostępna na telefonach.
 * Poziom drugi:
-  - [Firefox](https://www.mozilla.org/pl/) – w skrócie absolutny król przeglądarek. Lisek walczy od ponad 18 lat o wolność w sieci, non-profit, od ludzi dla ludzi. Zawiera wiele domyślnie włączonych zabezpieczeń, które można jeszcze bardziej w ustawieniach, do czego z automatu zachęcamy. Do tego po dodaniu naszego ukochanego [zestawu rozszerzeń](#Dodatki-do-przeglądarek), nasz Ognisty Lisek staje się absolutnym czołgiem. Oryginalny i zbudowany od zera, posiada własny Web Store niżeli ten oferowany w Chrome, co dla naprawdę opornych chrome'owców może być minusem i trudnością w przeniesieniu się.
+  - [Firefox](https://www.mozilla.org/pl/) – absolutny król przeglądarek kochany przez wszystkich (jeśli Ty jeszcze nie, to go pokochasz :D)! Lisek walczy od ponad 18 lat o wolność w sieci, non-profit, od ludzi dla ludzi. Zawiera wiele domyślnie włączonych zabezpieczeń, które można jeszcze zwiększyć w ustawieniach, do czego z automatu zachęcamy. Do tego po dodaniu naszego ukochanego [zestawu rozszerzeń](#Dodatki-do-przeglądarek), nasz Ognisty Lisek staje się internetowym czołgiem. Oryginalny i zbudowany od zera, posiada własny Web Store niżeli ten oferowany w Chrome, co dla naprawdę opornych chrome'owców może być minusem i trudnością w przeniesieniu się.
 * Poziom trzeci:
   - [Tor Browser](https://www.torproject.org/) – tu przechodzimy na szczyt naszej piramidy, która jest zarówno szczytem skomplikowania. TOR jest przeglądarką zbudowaną na Firefoxie, gwarantującą maksymalną anonimowość dzięki 'cebulowej sieci', ukryciu naszego IP oraz domyślnym ustawieniom. I kto powiedział, że trzeba zostawiać za sobą ślad?
 Minusem jednak jest powolne działanie internetu oraz częste blokowanie połączenia przez strony, które nie szanują chęci zachowania pełnej prywatności przez użytkowników. Powiemy tyle, że kiedy tak się dzieje, to to o czymś świadczy.
@@ -52,43 +52,48 @@ Minusem jednak jest powolne działanie internetu oraz częste blokowanie połąc
 * Poziom trzeci:
   - tutaj pracujemy nad sensownymi rekomendacjami wyszukiwarek stron .onion
 * Fałszywi przyjaciele:
-  - Google, Bing, Yahoo, Baidu – megakorporacje nie dbają o twoją prywatność – uciekaj od tych wyszukiwarek, jeśli chcesz zachować minimum prywatności
+  - Google, Bing, Yahoo, Baidu – megakorporacje nie dbają o Twoją prywatność – uciekaj od tych wyszukiwarek, jeśli chcesz zachować minimum prywatności
   - [Yandex](https://yandex.com/) – megakorporacją nie są, lecz jest to najpopularniejszy serwis wśród wschodnich Słowian. Nie jest to jednak powód do zaufania – nietrudno znaleźć [materiały](https://wap.ceo.ca/@canadianpress/top-russian-internet-firm-reportedly-under-pressure-on-data), dotyczące historii Yandeksu i rosyjskich służb. Piraci jednak ją lubią, ze względu na łatwy dostęp do treści łamiących prawa autorskie i ich wysokie pozycjonowanie. 
   - [StartPage](https://startpage.com/) – reklamują się jako "nieśledzący Google", lecz są w dobrych relacjach z reklamodawcami, budząc pewne [wątpliwości](https://restoreprivacy.com/startpage-system1-privacy-one-group/). Nie skreślamy ich całkowicie, lecz patrząc na dostępne alternatywy, polecamy traktowanie tej wyszukiwarki jako ostateczności
   
 ## Dodatki do przeglądarek
+Poza podstawowymi ustawieniami w naszych przeglądarkach, można je wszystkie jeszcze bardziej odpicować i zabezpieczyć skutecznymi rozszerzeniami.
+Wierzymy, że praktyczność, uniwersalność i minimalizm mogą iść w parze. Tak też ten profesjonalny zestaw rozszerzeń wystarczy wam w zupełności do wszystkiego!
+W tej kategorii poziom pierwszy jest absolutnie koniecznym i niezauważalnym minimum dla każdego. Drugi może lekko zmienić działanie przeglądarki, na co niektóre strony mogą różnie reagować. Trzeci jest bardzo zaawansowany i zdecydowanie nie jest dla każdego.
 * Poziom pierwszy:
-  - AdGuard –
-  - Privacy Badger –
-  - HTTPS Everywhere –
-  - Decentraleyes –
-  - CleanURLs –
-  - Facebook Container
+  - [AdGuard](https://adguard.com/pl/adguard-browser-extension/overview.html) – 
+  - [Privacy Badger](https://privacybadger.org/) –
+  - [HTTPS Everywhere](https://www.eff.org/https-everywhere) –
+  - [Decentraleyes](https://decentraleyes.org/) –
+  - [CleanURLs](https://addons.mozilla.org/en-US/firefox/addon/clearurls/) –
+  - [Facebook Container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) –
 * Poziom drugi:
-  - uBlock –
-  - CanvasBlocker –
-  - Cookie AutoDelete –
+  - [uBlock](https://ublockorigin.com/) –
+  - [CanvasBlocker](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/) –
+  - [Cookie AutoDelete](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/) –
 * Poziom trzeci:
-  - NoScript –
-  
+  - [NoScript](https://noscript.net/) –
+* Fałszywi przyjaciele:
+  - Wszelkie 'AdBlocki', Ghostery – nie potrzebujesz ich, serio. Większość tych 'adblocków' jest bardzo obciążające dla procesora, a często nawet nieskuteczne. Bo co komu z ukrywania reklamy lub usuwania ich w trakcie, jeśli prawdziwa blokada reklam powinna zablokować ją przed w ogóle wejściem na stronę? Warto również dodać, że ich listy filtrujące są często bardzo ograniczone i nie radzą sobie z trackerami.
+
 ## Komunikatory
-  Jasne, komunikatory to podstawa w rozmowie z kimś! Najpewniej większość twoich znajomych siedzi na Messengerze albo WhatsAppie, bo jest wygodne, bo każdy je używa i w zasadzie tylko o nich usłyszysz poznając kogoś nowego. Jednak jaki ma to sens, gdy każda twoja rozmowa może być sprzedana i czytana przez osoby z zewnątrz, nie masz pewności co się z nimi dzieje i możesz tylko spodziewać się reklamy kupna grilla, o którym kilka minut wcześniej pisałeś z przyjaciółką?
+  Jasne, komunikatory to podstawa w rozmowie z kimś! Najpewniej większość twoich znajomych siedzi na Messengerze albo WhatsAppie, bo są wygodne, każdy je używa i w zasadzie tylko o nich usłyszysz poznając kogoś nowego. Jednak jaki jest ich sens, gdy każda twoja rozmowa może być czytana przez służby, wykorzystana do reklam i pozbawiona jakiegokolwiek bezpieczeństwa?
 Z pomocą przychodzą najlepsze, prywatne i szyfrowane komunikatory.
-* 🟢Poziom pierwszy:
-  - [Telegram](https://telegram.org/) –
-* 🔵Poziom drugi:
+* Poziom pierwszy:
+  - [Telegram](https://telegram.org/) – 
+* Poziom drugi:
   - [Signal](https://www.signal.org/pl/) –
-* 🟣Poziom trzeci:
+* Poziom trzeci:
   - [Element/Matrix](https://element.io/) –
   - [Briar](https://briarproject.org/) –
-* 🔴Fałszywi przyjaciele:
+* Fałszywi przyjaciele:
   - Messenger/WhatsApp/Viber –
   - Zwykłe SMS'y –
   
 ## Poczta elektroniczna
 * Poziom pierwszy:
-  - [ProtonMail](https://protonmail.com/pl/)
-  - Tutanota
+  - [ProtonMail](https://protonmail.com/pl/) –
+  - [Tutanota](https://tutanota.com/pl/) –
 * Poziom drugi:
   -
 * Poziom trzeci:
