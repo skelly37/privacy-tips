@@ -76,17 +76,20 @@ Pamiętaj, że minmalizm jest piękny i im mniej, to tym lepiej i szybciej. Tak 
   - Wszelkie 'AdBlocki', Ghostery – nie potrzebujesz ich, serio. Większość tych 'adblocków' jest bardzo obciążające dla procesora, a często nawet nieskuteczne. Bo co komu z ukrywania reklamy lub usuwania ich w trakcie, jeśli prawdziwa blokada reklam powinna zablokować ją przed w ogóle wejściem na stronę? Warto również dodać, że ich listy filtrujące są często bardzo ograniczone i nie radzą sobie z trackerami.
 
 ## Komunikatory
-  Jasne, komunikatory to podstawa w rozmowie z kimś! Najpewniej większość twoich znajomych siedzi na Messengerze albo WhatsAppie, bo są wygodne, każdy je używa i w zasadzie tylko o nich usłyszysz poznając kogoś nowego. Jednak jaki jest ich sens, gdy każda twoja rozmowa może być czytana przez służby, wykorzystana do reklam i pozbawiona jakiegokolwiek bezpieczeństwa?
-Z pomocą przychodzą najlepsze, prywatne i szyfrowane komunikatory.
+  Jasne, komunikatory to podstawa w rozmowie z kimś! Najpewniej większość twoich znajomych siedzi na Messengerze albo WhatsAppie, bo są wygodne, każdy je używa i w zasadzie tylko o nich usłyszysz poznając kogoś nowego. Jednak jaki jest ich sens, gdy każda twoja rozmowa może być czytana przez służby, wykorzystana do reklam i pozbawiona jakiegokolwiek bezpieczeństwa? 
+Z pomocą przychodzą najlepsze, prywatne i szyfrowane komunikatory. Testowaliśmy każdy z podanych poniżej osobiście, wiemy jak one działają, a sami inspirowaliśmy się dość obszernym i merytoryczną [bazą danych nt. komunikatorów](https://docs.google.com/spreadsheets/d/1-UlA4-tslROBDS9IqHalWVztqZo7uxlCeKPQ-8uoFOU). Sami rekomendujemy tylko te (poza Telegramem, stąd poziom pierwszy), które pomyślnie przeszły weryfikację ich szyfrowania przez zewnętrznych testerów, bo jest ich tyle do wyboru  
+Osobiście polecam ustawić sobie klienty Elementu, Signala czy XMPP, by włączały się razem z systemem. Jeżeli zapomnisz ich włączać przez jakiś czas, zmarnujesz sporo czasu na ładowanie i odszyfrowywanie wszystkich wiadomości z czego czasu. Przynajmniej wiadomo że działa!
 * Poziom pierwszy:
-  - [Telegram](https://telegram.org/) – rosyjski, niesamowicie wygodny komunikator bijący Messengera o głowę swoimi możliwościami, a których długo by mówić. Posiada wiele społeczności, do których można się przyłączyć. Rozmowy mają szyfrowanie End-to-End, jednak nie domyślnie, a w 'chacie prywatnym', co jest jednym z dużych minusów. Drugim problemem jest konieczność dodania numeru telefonu przy tworzeniu konta jako weryfikację. Niemniej jednak jest to najprzyjemniejsza alternatywa do przejścia ze znajomymi!
+  - [Telegram](https://telegram.org/) – rosyjski, niesamowicie wygodny komunikator bijący Messengera o głowę swoimi możliwościami, a o których długo by mówić. Posiada wiele społeczności, do których można się przyłączyć. Rozmowy mają szyfrowanie end-to-end, jednak nie domyślnie, a w 'chacie prywatnym', co jest jednym z dużych minusów. Drugim problemem jest konieczność dodania numeru telefonu przy tworzeniu konta jako weryfikację. Niemniej jednak jest to najprzyjemniejsza alternatywa do przejścia ze znajomymi!
 * Poziom drugi:
-  - [Signal](https://www.signal.org/pl/) – bohaterski komunikator w pełni szyfrowany End-to-End. Na Androidach może zastąpić nawet domyślną aplikację SMS'ową. Tylko no właśnie, znów tym samym problemem jest konieczność rejestracji z numerem telefonu.
+  - [Signal](https://www.signal.org/pl/) – bohaterski komunikator w pełni szyfrowany end-to-end. Na Androidach może zastąpić nawet domyślną aplikację SMS'ową. Tylko no właśnie, znów tym samym problemem jest konieczność rejestracji z numerem telefonu. Warto dodać, że Signal ma [poparcie Edwarda Snowdena](https://www.dailydot.com/debug/edward-snowden-signal-encryption-privacy-messaging/). Proszę również nie myśleć, że bezpieczeństwo = toporność! Signal ma spory (i ciągle rosnący) [zapas naklejek](https://signalstickers.com/), można tworzyć swoje naklejki... Komunikator obsługuje konwersacje grupowe, "przepuszcza" pliki do 100MB, umożliwia reagowanie i odpowiadanie na wiadomości. Jest to w pełni funkcjonalne narzędzie, używane na codzień bezproblemowo. 
 * Poziom trzeci:
   - [Element/Matrix](https://element.io/) –
-  - [Briar](https://briarproject.org/) –
+  - [Briar](https://briarproject.org/) – Androidowy (niestety tylko) komunikator w pełni szyfrowany end-to-end. Jednak jeśli ktoś potrzebuje koniecnzie Briara, to i będzie potrafił sobie odpowiednio emulować Androida na PC ;) Co można jeszcze o nim powiedzieć? Ogromnym plusem jest brak serwerów, wszystkie rozmowy odbywają się w formie peer-to-peer. Domyślnie łączy się z internetem poprzez sieć TOR, ale daje możliwość komunikacji w sieciach lokalnych: Wi-Fi lub Bluetooth. Przy każdym uruchomieniu aplikacji musisz się logować (wpisywać hasło) i musi ona chodzić odpalona w tle, żeby przychodziły wiadomości – ot, uroki braku serwerów. Pozwala również na przeprowadzanie konwersacji grupowych.
+  - [XMPP] 
 * Fałszywi przyjaciele:
-  - Messenger/WhatsApp/Viber –
+  - Messenger/WhatsApp/Viber/Hangouts/Skype/Gadu-Gadu/WeChat i im podobne – Cóż, powody są banalnie proste i powtarzalne w poszczególnych punktach: korporacjom zależy na twoich danych, a nie bezpieczeństwie. Jasne, nie wszystkie wymienione należą do Facebooka czy innego Microsoftu, jednak żaden podany nie daje ci możliwości szyfrowania end-to-end. Nie daj się nabrać na [ich definicję prywatności](https://www.facebook.com/records/login/). Bez szyfrowania bezpieczny nie jesteś, a połączenie tego z zamkniętym klientem (nikt tak naprawdę nie wie, kto, co, gdzie i kiedy robi z danymi na serwerze) jest proszeniem się o tragedię. Zadbaj o siebie sam i edukuj znajomych, bo nie jest to interesem nikogo "na górze".
+  - Snapchat – jemu poświęcimy osobny punkt, z racji niesłusznego szacunku, którym jest darzony przez nieświadomych zagrożenia ludzi, ze względu na "znikające" wiadomości. Ani [nie znikają z telefonu po odtworzeniu](https://nakedsecurity.sophos.com/2013/05/10/snapchat-images-that-have-disappeared-forever-stay-right-on-your-phone/), twoja [historia lokalizacji nie jest bezpieczna](https://www.nytimes.com/2014/05/09/technology/snapchat-reaches-settlement-with-federal-trade-commission.html?_r=0), a zwykły śmiertelnik nigdy nie będzie mieć stuprocentowej pewności, co do tego, co się dzieje na ich zamkniętych serwerach z jego wiadomościami. Raz naruszone zaufanie jest bardzo trudne do odbudowania. Odradzamy Snapchata do tego stopnia, że poświęcamy mu chyba najwięcej uwagi w całym punkcie dotyczącym komunikatorów. Znikające i bezpieczne wiadomości zapewnia Signal, po co więc ryzykować? 
   - Zwykłe SMS'y –
   
 ## Poczta elektroniczna
@@ -111,6 +114,7 @@ Z pomocą przychodzą najlepsze, prywatne i szyfrowane komunikatory.
   - [RiseUp VPN](https://riseup.net/en/vpn) –
 * Fałszywi przyjaciele:
   - Darmowym VPN'om niestety nie można ufać
+  
 ## Systemy operacyjne
 * **KOMPUTER**
   - Poziom pierwszy:
