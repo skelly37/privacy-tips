@@ -60,20 +60,30 @@ Minusem jednak jest powolne działanie internetu oraz częste blokowanie połąc
 Poza podstawowymi ustawieniami w naszych przeglądarkach, można je wszystkie jeszcze bardziej odpicować i zabezpieczyć skutecznymi rozszerzeniami.<br>
 Pamiętaj, że minmalizm jest piękny i im mniej, to tym lepiej i szybciej. Tak też ten profesjonalny zestaw rozszerzeń wystarczy Ci w zupełności do wszystkiego!
 * Poziom pierwszy:
-  - [Privacy Badger](https://privacybadger.org/) –
-  - [HTTPS Everywhere](https://www.eff.org/https-everywhere) –
+  - [Privacy Badger](https://privacybadger.org/) – świetne rozszerzenie, które automatycznie blokuje wszelakie skrypty śledzące w odwiedzanych witrynach. Swoją 'wiedzę' czerpie z doświadczenia wielu użytkowników, którzy dobrowolnie wspierają jego rozwój. Rozszerzenie pozwala również na odblokowanie skryptu, jeżeli jego brak psuje stronę. Z reguły oznacza to, że pora szukać innej witryny, lecz czasem się to przydaje. 
+  - [HTTPS Everywhere](https://www.eff.org/https-everywhere) – Jeżeli nie korzystasz z przeglądarki Firefox na PC, będzie Ci potrzebny. Rozszerzenie wymusza na stronach użycie szyfrowanego połączenia HTTPS zamiast mniej bezpiecznego HTTP. Dopiero, gdy lepszej jakości połączenie jest niemożliwe masz wybór: połączyć się poprzez HTTP lub opuścić stronę. To na tyle z wymaganej aktywności użytkownika. Jedno z dwóch rozszerzeń Tor Browsera.
   - [Decentraleyes](https://decentraleyes.org/) –
+  - [Popup Blocker (strict)](https://addons.mozilla.org/pl/firefox/addon/popup-blocker/) – jak sama nazwa wskazuje jest to bloker wszelkich przekierowań i wyskakujących okienek. Nic bez twojej autoryzacji nie będzie miało miejsca – zapomnij o 10 okienkach z jakimiś durnymi, nacechowanymi erotyzmem reklamami, gdy przeglądasz wątpliwej jakości witryny.
   - [CleanURLs](https://addons.mozilla.org/en-US/firefox/addon/clearurls/) –
-  - [Facebook Container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) –
-  - [AdGuard](https://adguard.com/pl/adguard-browser-extension/overview.html) – przyjemny w użyciu bloker reklam. Wykorzystuje autorskie listy filtrów do trackerów i reklam. Jest niewykrywalny przez strony jako adblock, więc unikniemy zbędnego "hurr durr, masz włączonego AdBlocka!!1!11!". Może również blokować reklamy na Facebooku, co akurat nie pojawia się w sąsiednim uBlocku.
+  - [Facebook Container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) – rozszerzenie, które wydziela Facebookowi specjalną przestrzeń w twojej przeglądarce. Zapewne pamiętasz jak kiedyś szukałeś nowych butów i zanim jeszcze je zamówiłeś Facebook reklamował ci 500 różnych par? Otóż Facebook Container domyślnie wyłącza wszelkie skrypty śledzące Facebooka poza FB czy Instagramem, pozwala na autoryzację logowania przez konto FB na jakiejś stronie, lecz utrudnia serwisowi pozyskiwanie jakichkolwiek dodatkowych informacji o twojej aktywności w internecie. 
+  - [AdGuard](https://adguard.com/pl/adguard-browser-extension/overview.html) – przyjemny w użyciu bloker reklam. Wykorzystuje autorskie listy filtrów do trackerów i reklam. Jest niewykrywalny przez strony jako adblock, więc unikniemy zbędnego "hurr durr, masz włączonego AdBlocka!!1!11!". Może również blokować reklamy i sponsorowane posty na Facebooku, co akurat nie pojawia się w sąsiednim uBlocku.
 * Poziom drugi:
   - [uBlock](https://ublockorigin.com/) –
-  - [CanvasBlocker](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/) –
-  - [Cookie AutoDelete](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/) –
+  - [User Agent Switcher]() – chcesz zamaskować swój system operacyjny lub przeglądarkę? Może chcesz pobawić się widokiem mobilnym na komputerze? W takim razie UAS jest dla Ciebie! Rozszerzenie sprawia po prostu, że, przykładowo, używając Windowsa 10 i Firefoksa widoczny jesteś jako posiadacz iOS 13 z Safari.
+  - [Cookie AutoDelete](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/) – narzędzie, które, zgodnie ze swoją nazwą, pozwala dość szczegółowo zautomatyzować proces kasowania ciasteczek. Daje możliwość ustawiania białej listy, szarej listy (kasowane tylko przy wyłączaniu przeglądarki), różnych reguł (np. kasowania od razu po zamknięciu karty). Nie jest to narzędzie skomplikowane, lecz wymaga podstawowej wiedzy o plikach cookie, by po prostu wiedzieć, co kasować, a co tylko utrudni nam życie.
 * Poziom trzeci:
-  - [NoScript](https://noscript.net/) –
+  - [NoScript](https://noscript.net/) – bloker wszelkich JavaScriptów na stronie. Nie jest to narzędzie skomplikowane, lecz wymaga trochę intuicji lub samozaparcia w odpalaniu absolutnego minimum skryptów na witrynie. Jedno z dwóch rozszerzeń Tor Browsera.
+  - [CanvasBlocker](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/) –
 * Fałszywi przyjaciele:
   - Wszelkie 'AdBlocki', Ghostery – nie potrzebujesz ich, serio. Większość tych 'adblocków' jest bardzo obciążające dla procesora, a często nawet nieskuteczne. Bo co komu z ukrywania reklamy lub usuwania ich w trakcie, jeśli prawdziwa blokada reklam powinna zablokować ją przed w ogóle wejściem na stronę? Warto również dodać, że ich listy filtrujące są często bardzo ograniczone i nie radzą sobie z trackerami.
+* Bonus:
+  Nie samą prywatnością żyje człowiek. Jeśli masz ochotę (oraz dostateczną ilość pamięci i moc procesora), możesz również zwiększyć funkcjonalność swojej przeglądarki. Poniżej przedstawimy kilka rozszerzeń, które może i o prywatność nie dbają, ale i jej nie szkodzą, a jednocześnie są warte uwagi. Rozszerzenia, których po prostu sami używamy
+  - [Video DownloadHelper]
+  - [Dark Reader] – zadbaj o oczka! Nasz Darth Vader, spoglądający z paska rozszerzeń dzielnie koloruje witryny na czarno. Przyznam szczerze, że używam go prawie wszędzie. Pora jednak na dwie uwagi. Po pierwsze, gdy strona ma dostępną ciemną wersję, to z niej skorzystaj, zamiast katować procesor Dark Readerem. Po drugie, jak już wspomniałem w poprzednim zdaniu, nie jest to rozwiązanie dobre dla połączenia obszernej witryny i słabego komputera – lepiej korzystać z białej strony niż mieć praktycznie niezdatną do użytku wersję czarną.
+  - [Auto Tab Discard]
+  - [Undo Close Tab]
+  - [Simple Tab Groups] – jeżeli podobnie jak ja zamiast zakładek wolisz mieć odpalone ze 100 kart, rozszerzenie to jest dla ciebie! STG pozwala wygpodnie dzielić otwarte karty na foldery, więc możesz sobie porozdzielać pracę od rozrywki, nauki itd. Jeden dodatek do przeglądarki może zamienić komputerowego bałaganiarza we wzór wirtualnego pedantyzmu.
+  - [Flagfox] – pierdółka, pokazująca dostępne dane o aktualnej domenie i jej serwerze
 
 ## Komunikatory
   Jasne, komunikatory to podstawa w rozmowie z kimś! Najpewniej większość twoich znajomych siedzi na Messengerze albo WhatsAppie, bo są wygodne, każdy je używa i w zasadzie tylko o nich usłyszysz poznając kogoś nowego. Jednak jaki jest ich sens, gdy każda twoja rozmowa może być czytana przez służby, wykorzystana do reklam i pozbawiona jakiegokolwiek bezpieczeństwa? 
