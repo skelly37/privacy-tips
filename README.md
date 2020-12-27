@@ -152,6 +152,14 @@ Osobiście polecam ustawić sobie klienty Elementu, Signala czy XMPP, by włącz
     - [CalyxOS](https://calyxos.org/get/) – Na razie tylko na Google Pixel oraz Xiaomi Mi A2 (otwarcie na Xiaomi daje cień nadziei)
   - Fałszywi przyjaciele:
     - Analogicznie jak w przypadku komputerów – uciekaj od wszelkich *analiz*, "anonimowego *wsparcia*" i innej *diagnostyki*. 
+    
+## Klient torrent
+  - Poziom pierwszy:
+    - [Deluge](https://dev.deluge-torrent.org/)
+    - [qBittorrent](https://www.qbittorrent.org/)
+    
+  - Fałszywi przyjaciele:
+    - μTorrent/BitTorrent – [złośliwe oprogramowanie](https://www.reddit.com/r/qBittorrent/comments/crjxlt/warning_bittorrent_comes_with_malware_trojan/) lub [koparka kryptowalut](https://www.pcworld.com/article/2893982/utorrent-quietly-installs-a-cryptocurrency-miner-on-users-computers.html). Wybierz swojego wirusa (lub bądź mądry i bierz polecane!).
 
 ## Warte odwiedzenia strony
  - [PrivacyTools](https://www.privacytools.io/) – Zbiór najważniejszych i najbardziej polecancych przez specjalistów narzędzi, informacji etc. w świecie cybersecu.
