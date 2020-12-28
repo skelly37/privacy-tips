@@ -120,7 +120,7 @@ Osobiście polecam ustawić sobie klienty Elementu, Signala czy XMPP, by włącz
 * Poziom drugi:
   - [NordVPN](https://nordvpn.com/pl/) –
   - [ExpressVPN](https://www.expressvpn.com/pl) –
-  - [ProtonVPN](https://protonvpn.com/pricing) – jedyna darmowa i jednocześnie bezpieczna opcja. Jasne, plan dla oszczędnych jest okrojony, lecz lepsze to niż nic ;) 
+  - [ProtonVPN](https://protonvpn.com/pricing) – jedyna darmowa i jednocześnie [bezpieczna](https://www.security.org/vpn/protonvpn/review/) opcja. Jasne, plan dla oszczędnych jest okrojony, lecz lepsze to niż nic ;) 
 * Poziom trzeci:
   - [RiseUp VPN](https://riseup.net/en/vpn) –
   - [Połączenie przez TORa](https://torproject.org) – Androidziarze mają super – jedno kliknięcie i wszystko gotowe. Możesz konfigurować aplikacje w trybie VPN i nawet ustawić państwo, w którym będziesz mieć końcowy mostek [Link](https://guardianproject.info/apps/org.torproject.android/). Natomiast jeżeli ktoś chce łączyć się TOR-em na komputerze, to czeka go trochę zabawy [link do jakiegoś poradnika]. TOR nie nadaje się do wszystkiego (nawet nie próbuj logować się na FB), ale w wielu sytuacjach nas ratuje.
