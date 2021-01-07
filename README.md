@@ -11,9 +11,7 @@ Miłej zabawy!
 ----
 <h3>Przed tym wszystkim przypomnijmy sobie jedną, prostą zasadę:<br>
 <b>Google/Facebook/Microsoft/Apple nie lubimy.</b></h3>
-----
-Jeśli chcesz ekspresowo zwiększyć swoje bezpieczeństwo bez czytania całej strony, zebranych propozycji i naszych informacji informacji, to mamy dla Ciebie szybciutkie rady co robić, bez tłumaczenia ;]
-1. 
+
 
 ## SPIS TREŚCI
 * [Przeglądarki](#Przeglądarki)
