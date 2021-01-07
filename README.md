@@ -11,6 +11,9 @@ Miłej zabawy!
 ----
 <h3>Przed tym wszystkim przypomnijmy sobie jedną, prostą zasadę:<br>
 <b>Google/Facebook/Microsoft/Apple nie lubimy.</b></h3>
+----
+Jeśli chcesz ekspresowo zwiększyć swoje bezpieczeństwo bez czytania całej strony, zebranych propozycji i naszych informacji informacji, to mamy dla Ciebie szybciutkie rady co robić, bez tłumaczenia ;]
+1. 
 
 ## SPIS TREŚCI
 * [Przeglądarki](#Przeglądarki)
@@ -64,7 +67,7 @@ Pamiętaj, że minmalizm jest piękny i im mniej, to tym lepiej i szybciej. Tak 
   - [HTTPS Everywhere](https://www.eff.org/https-everywhere) – Jeżeli nie korzystasz z przeglądarki Firefox na PC, będzie Ci potrzebny. Rozszerzenie wymusza na stronach użycie szyfrowanego połączenia HTTPS zamiast mniej bezpiecznego HTTP. Dopiero, gdy lepszej jakości połączenie jest niemożliwe masz wybór: połączyć się poprzez HTTP lub opuścić stronę. To na tyle z wymaganej aktywności użytkownika. Jedno z dwóch rozszerzeń Tor Browsera. Jeśli chcesz wiedzieć jak to działa na Firefoksie lub czym jest protokół HTTPS – [kliknij tutaj](https://support.mozilla.org/en-US/kb/https-only-prefs?as=u&utm_source=inproduct)
   - [Decentraleyes](https://decentraleyes.org/) –
   - [Popup Blocker (strict)](https://addons.mozilla.org/pl/firefox/addon/popup-blocker/) – jak sama nazwa wskazuje jest to bloker wszelkich przekierowań i wyskakujących okienek. Nic bez twojej autoryzacji nie będzie miało miejsca – zapomnij o 10 okienkach z jakimiś durnymi, nacechowanymi erotyzmem reklamami, gdy przeglądasz wątpliwej jakości witryny.
-  - [CleanURLs](https://addons.mozilla.org/en-US/firefox/addon/clearurls/) –
+  - [CleanURLs](https://addons.mozilla.org/en-US/firefox/addon/clearurls/) – nawet w głupim linku potrafią być zawarte elementy śledzące. Jak je znajdziemy? Ano link, który ma w cholerę znaków i jest tak długi, że daleko wystaje poza pasek, najpewniej jest chodzącym trackerem. Ten dodatek usuwa tą zawartość z wątpliwej jakości linków (Amazon tego najlepszym przykładem, shame on you), po czym okazuje się, że link potrafi być krótki i czytelny.
   - [Facebook Container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) – rozszerzenie, które wydziela Facebookowi specjalną przestrzeń w twojej przeglądarce. Zapewne pamiętasz jak kiedyś szukałeś nowych butów i zanim jeszcze je zamówiłeś Facebook reklamował ci 500 różnych par? Otóż Facebook Container domyślnie wyłącza wszelkie skrypty śledzące Facebooka poza FB czy Instagramem, pozwala na autoryzację logowania przez konto FB na jakiejś stronie, lecz utrudnia serwisowi pozyskiwanie jakichkolwiek dodatkowych informacji o twojej aktywności w internecie. 
   - [AdGuard](https://adguard.com/pl/adguard-browser-extension/overview.html) – przyjemny w użyciu bloker reklam. Wykorzystuje autorskie listy filtrów do trackerów i reklam. Jest niewykrywalny przez strony jako adblock, więc unikniemy zbędnego "hurr durr, masz włączonego AdBlocka!!1!11!". Może również blokować reklamy i sponsorowane posty na Facebooku, co akurat nie pojawia się w sąsiednim uBlocku.
 * Poziom drugi:
@@ -96,7 +99,7 @@ Osobiście polecam ustawić sobie klienty Elementu, Signala czy XMPP, by włącz
 * Poziom trzeci:
   - [Element/Matrix](https://element.io/) –
   - [Briar](https://briarproject.org/) – Androidowy (niestety tylko) komunikator w pełni szyfrowany end-to-end. Jednak jeśli ktoś potrzebuje koniecnzie Briara, to i będzie potrafił sobie odpowiednio emulować Androida na PC ;) Co można jeszcze o nim powiedzieć? Ogromnym plusem jest brak serwerów, wszystkie rozmowy odbywają się w formie peer-to-peer. Domyślnie łączy się z internetem poprzez sieć TOR, ale daje możliwość komunikacji w sieciach lokalnych: Wi-Fi lub Bluetooth. Przy każdym uruchomieniu aplikacji musisz się logować (wpisywać hasło) i musi ona chodzić odpalona w tle, żeby przychodziły wiadomości – ot, uroki braku serwerów. Pozwala również na przeprowadzanie konwersacji grupowych.
-  - [XMPP] 
+  - [XMPP] –
 * Fałszywi przyjaciele:
   - Messenger/WhatsApp/Viber/Hangouts/Skype/Gadu-Gadu/WeChat i im podobne – Cóż, powody są banalnie proste i powtarzalne w poszczególnych punktach: korporacjom zależy na twoich danych, a nie bezpieczeństwie. Jasne, nie wszystkie wymienione należą do Facebooka czy innego Microsoftu, jednak żaden podany nie daje ci możliwości szyfrowania end-to-end. Nie daj się nabrać na [ich definicję prywatności](https://www.facebook.com/records/login/). Bez szyfrowania bezpieczny nie jesteś, a połączenie tego z zamkniętym klientem (nikt tak naprawdę nie wie, kto, co, gdzie i kiedy robi z danymi na serwerze) jest proszeniem się o tragedię. Zadbaj o siebie sam i edukuj znajomych, bo nie jest to interesem nikogo "na górze".
   - Snapchat – jemu poświęcimy osobny punkt, z racji niesłusznego szacunku, którym jest darzony przez nieświadomych zagrożenia ludzi, ze względu na "znikające" wiadomości. Ani [nie znikają z telefonu po odtworzeniu](https://nakedsecurity.sophos.com/2013/05/10/snapchat-images-that-have-disappeared-forever-stay-right-on-your-phone/), twoja [historia lokalizacji nie jest bezpieczna](https://www.nytimes.com/2014/05/09/technology/snapchat-reaches-settlement-with-federal-trade-commission.html?_r=0), a zwykły śmiertelnik nigdy nie będzie mieć stuprocentowej pewności, co do tego, co się dzieje na ich zamkniętych serwerach z jego wiadomościami. Raz naruszone zaufanie jest bardzo trudne do odbudowania. Odradzamy Snapchata do tego stopnia, że poświęcamy mu chyba najwięcej uwagi w całym punkcie dotyczącym komunikatorów. Znikające i bezpieczne wiadomości zapewnia Signal, po co więc ryzykować? 
@@ -104,19 +107,19 @@ Osobiście polecam ustawić sobie klienty Elementu, Signala czy XMPP, by włącz
   
 ## Poczta elektroniczna
 * Poziom pierwszy:
-  - [ProtonMail](https://protonmail.com/pl/) –
+  - [ProtonMail](https://protonmail.com/pl/) – Nasz faworyt! Protonek jest szyfrowany end-to end, darmowy, szybki i bezpieczny, a do tego ma bardzo wiele funkcji. Można wysyłać maile na hasło, tymczasowe, które znikną po jakimś ustawionym czasie itp. Dysk w Protonku ma 500mb, co można oczywiście zwiększyć, nawet przechodząc na płatne, ulepszone wersje. Ale tak jak mówimy, wersja darmowa jest absolutnie idealna!
   - [Tutanota](https://tutanota.com/pl/) –
 * Poziom drugi:
-  -
+  - tu jeszcze coś będzie
 * Poziom trzeci:
   - RiseUp Mail –
-  - Thunderbird –
+  - Thunderbird – uwaga, to nie jest E-Mail, a bezpieczna platforma, na której można korzystać z każdej swojej poczty bez strachu, że w przeglądarce coś może mieć dostęp do niej dostęp. Jest domyślnie instalowana na Linuxach, co jest naprawdę dużym atutem.
 * Fałszywi przyjaciele:
-  - Gmail/Outlook/Yahoo
+  - Gmail/Outlook/Yahoo – popularne, nie mają szyfrowania, należą do korpo, które mogą mieć dostęp do twoich mailów, nie mówiąc już o wszelkich służbach. Unikaj. Jak. Ognia.
 
 ## VPN
 * Poziom pierwszy:
-  - [1.1.1.1 z WARP](https://1.1.1.1/) –
+  - [1.1.1.1 z WARP](https://1.1.1.1/) – ogólnie 1.1.1.1 to prywatny i szybki [DNS](#DNS) od Cloudflare. Jednak oferują aplikację na telefony, w której każde połączenie z siecią jest przenoszone na cztery jedynki + za darmo jest WARP, czyli ich taki VPN, który choć nie jest bardzo funkcjonalny jak inne (brak opcji zmiany krajów, SplitTunneling itp.), to zawsze mile widziane jest ukrycie naszych prawdziwych VPN.
 * Poziom drugi:
   - [NordVPN](https://nordvpn.com/pl/) –
   - [ExpressVPN](https://www.expressvpn.com/pl) –
