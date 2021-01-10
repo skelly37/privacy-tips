@@ -46,11 +46,11 @@ Minusem jednak jest powolne działanie internetu oraz częste blokowanie połąc
 
 ## Wyszukiwarki
 * Poziom pierwszy:
-  - [Whoogle Search](https://whoogle.sdf.org/) – nowość, zapewniająca pozycjonowanie prosto Google, co jest jej największym plusem i co sprawia, że jeden z nas jej używa na co dzień. Problematyczny jest jedynie fakt, że narzędzie nie działa bez JavaScripta, stąd "tylko" poziom pierwszy. [Link do GitHuba Whoogle](https://github.com/benbusby/whoogle-search)
+  - [Whoogle Search](https://whoogle.sdf.org/) – nowość, zapewniająca pozycjonowanie prosto Google, co jest jej największym plusem. Sami używamy jej do sprawdzenia pierdół, charakterystycznych dla Google (np. godziny otwarcia sklepu) lub dla polskiego pozycjonowania. Problematyczny jest jedynie fakt, że narzędzie nie działa bez JavaScripta, stąd "tylko" poziom pierwszy. [Link do GitHuba Whoogle](https://github.com/benbusby/whoogle-search)
   - [StartPage](https://startpage.com/) – reklamują się jako "nieśledzący Google", lecz są w dobrych relacjach z reklamodawcami, budząc pewne [wątpliwości](https://restoreprivacy.com/startpage-system1-privacy-one-group/). Nie skreślamy ich całkowicie, tragedii nie ma, lecz proponujemy zapoznanie się z alternatywami dla SP i poniższego DDG.
   - [DuckDuckGo](https://duckduckgo.com/)/[DuckDuckGo.onion](3g2upl4pq6kufc4m.onion) – uważana za legendę, nie jest jednak tak [święta](https://techrights.org/2020/07/02/ddg-privacy-abuser-in-disguise/)). Wciąż lepsza dla prywatności użytkownika od jakiegoś Google czy Yandexu, ale mamy lepsze alternatywy. Poziom pierwszy to aż nadto
 * Poziom drugi:
-  - [searX](https://searx.info/) – wyszukiwarka, co prawda, jest open-source i działa bez JavaScripta, lecz honorowe miejsce postanowiliśmy zostawić najpewniejszemu DDG.
+  - [searX](https://search.privacytools.io/searx/) – wyszukiwarka genialna, wymagająca jednak troszkę wysiłku. FOSS, działa bez JavaScripta, ale trzeba poświęcić troszkę czasu na konfigurację odpowiadającego pozycjonowania, do czego serdecznie zachęcam, jako jej użytkownik od momentu poznania problemów DDG i wyjścia z kaczej bańki.
   - Samodzielnie postawione Whoogle. 
 * Poziom trzeci:
   - tutaj pracujemy nad sensownymi rekomendacjami wyszukiwarek stron .onion
